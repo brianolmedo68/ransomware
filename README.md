@@ -18,3 +18,8 @@ Asegúrate de tener una copia de seguridad de tus archivos antes de instalar y e
 
 **Importante:** El cifrado solo afectará a los archivos dentro del directorio donde se haya ejecutado el software. No modificará archivos fuera de este entorno.
 
+## Video 
+
+Puedes ver el video del ransomware en el siguiente [enlace a YouTube](https://www.youtube.com/watch?v=RAZxSJLexlc).
+
+
