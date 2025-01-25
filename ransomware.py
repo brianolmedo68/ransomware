@@ -36,7 +36,7 @@ def send_email(receiver_email, subject, message):
     except Exception as e:
         print(f"Error al enviar el correo electronico: {e}")
 
-receiver_email = "gmail"
+receiver_email = "pon un gmail"
 
 subject = "Clave de encriptacion"
 
